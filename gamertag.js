@@ -276,10 +276,6 @@ export const gamertag = [
     "gamertag": "HelpedCart77063"
   },
   {
-    "name": "なちこ",
-    "gamertag": "omuko0"
-  },
-  {
     "name": "inina",
     "gamertag": "inina2507461"
   },
