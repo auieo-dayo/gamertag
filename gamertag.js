@@ -282,5 +282,13 @@ export const gamertag = [
   {
     "name": "魔理沙",
     "gamertag": "marisa836108"
+  },
+  {
+    "name": "シナモン",
+    "gamertag": "ayupoo0601"
+  },
+  {
+    "name": "わんこそば",
+    "gamertag": "Kabtms1126"
   }
 ]
