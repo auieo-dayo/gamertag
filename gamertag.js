@@ -1,3 +1,5 @@
+// このファイルは gemertag の一部ですが、コピー・再利用は禁止です。
+// 他のファイルは MIT ライセンスに従います。
 export const gamertag = [
   {
     "name": "ぬこ",
