@@ -1,4 +1,4 @@
-import {gamertag} from "./gamertag.js"
+import {gamertag} from "./src/gamertag.obf.js"
 
 const all = 178
 
