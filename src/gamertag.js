@@ -300,5 +300,9 @@ export const gamertag = [
   {
     "name": "taro",
     "gamertag": "sho3833"
+  },
+  {
+    "name": "サイコ",
+    "gamertag": "saiko315saiko09"
   }
 ]
