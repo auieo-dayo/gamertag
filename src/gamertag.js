@@ -316,9 +316,5 @@ export const gamertag = [
   {
     "name": "トト丸",
     "gamertag": "haruyako"
-  },
-  {
-    "name": "青鬼サーバーあるよー",
-    "gamertag": "kanato5410"
   }
 ]
