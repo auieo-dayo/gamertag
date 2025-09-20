@@ -24,8 +24,4 @@ SOFTWARE.
 EXCEPTION
 
 The following file(s) are excluded from the permissions granted above:
-- `src/gamertag.js`
-
-These file(s) may not be copied, modified, redistributed, or used separately
-from this project. Any such use without explicit permission is prohibited.
--------------------------------------------------------------------------------
+- `src/gamertag.js` (see `src/gamertag.LICENSE` for details)
