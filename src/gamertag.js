@@ -308,5 +308,25 @@ export const gamertag = [
   {
     "name": "hsu",
     "gamertag": "AdoreCandy01837"
+  },
+  {
+    "name": "野菜卿",
+    "gamertag": "saladman8504"
+  },
+  {
+    "name": "ギル🪞",
+    "gamertag": "muyodoll"
+  },
+  {
+    "name": "あかさたな",
+    "gamertag": "AblazeLace39434"
+  },
+  {
+    "name": " 󠄒󠄽󠄹󠄉 󠄒󠄽󠄹󠄉󠄓󠅒󠅲󠄿󠅊󠅞󠅽  ️           ️       ️           ️    ",
+    "gamertag": "kabuto1510"
+  },
+  {
+    "name":"トト丸",
+    "gamertag": "haruyako"
   }
 ]
